@@ -1,2 +1,1 @@
-# jobs
-This is a recruiting site
+https://sqor.github.io/jobs/
